@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProductCatalog>
+  <speaker>
+    <id>SP2</id>
+    <image>images/speakers/anker.JPG</image>
+    <name>Anker</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Anker</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>10.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>9</quantity>
+  </speaker>
+  <speaker>
+    <id>SP1</id>
+    <image>images/speakers/jbl.JPG</image>
+    <name>JBL</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>JBL</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>5.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </speaker>
+  <speaker>
+    <id>SP4</id>
+    <image>images/speakers/dell.JPG</image>
+    <name>Dell</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Dell</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>11</quantity>
+  </speaker>
+  <speaker>
+    <id>SP3</id>
+    <image>images/speakers/bose.JPG</image>
+    <name>Bose</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Bose</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>15.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </speaker>
+  <speaker>
+    <id>SP6</id>
+    <image>images/speakers/jblplus.JPG</image>
+    <name>JBL Plus Boom</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>JBL</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>8</quantity>
+  </speaker>
+  <speaker>
+    <id>SP5</id>
+    <image>images/speakers/doss.JPG</image>
+    <name>Doss</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Doss</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>5</quantity>
+  </speaker>
+  <speaker>
+    <id>SP8</id>
+    <image>images/speakers/mica.JPG</image>
+    <name>Micaxy</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Mica</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>12</quantity>
+  </speaker>
+  <speaker>
+    <id>SP10</id>
+    <image>images/speakers/sony.JPG</image>
+    <name>Sonyy</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Sony</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>20</quantity>
+  </speaker>
+  <speaker>
+    <id>SP7</id>
+    <image>images/speakers/logitech.JPG</image>
+    <name>Logitech</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>logitech</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>15</quantity>
+  </speaker>
+  <speaker>
+    <id>SP9</id>
+    <image>images/speakers/sonos.JPG</image>
+    <name>Sonos</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Sonos</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>8</quantity>
+  </speaker>
+</ProductCatalog>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProductCatalog>
+  <phone>
+    <id>PH1</id>
+    <image>images/phones/iphone1.jpg</image>
+    <name>iPhone 7 32GB Model</name>
+    <condition>New</condition>
+    <price>750</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Apple</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </phone>
+  <phone>
+    <id>PH2</id>
+    <image>images/phones/samsung.jpg</image>
+    <name>Samsung Galaxy S7 edge</name>
+    <condition>New</condition>
+    <price>600</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Samsung</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </phone>
+  <phone>
+    <id>PH3</id>
+    <image>images/phones/nexus.jpg</image>
+    <name>Nexus 6P 32GB GSM</name>
+    <condition>New</condition>
+    <price>500</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Google</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </phone>
+  <phone>
+    <id>PH4</id>
+    <image>images/phones/lumia.jpg</image>
+    <name>Microsoft Lumia 950 XL</name>
+    <condition>Old</condition>
+    <price>300</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Microsoft</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </phone>
+  <phone>
+    <id>PH5</id>
+    <image>images/phones/iphone2.jpg</image>
+    <name>iPhone 6S with 3D Touch</name>
+    <condition>Old</condition>
+    <price>450</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Apple</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </phone>  
+  <phone>
+    <id>PH6</id>
+    <image>images/phones/htc.JPG</image>
+    <name>HTC</name>
+    <condition>Old</condition>
+    <price>450</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>HTC</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </phone>  
+  <phone>
+    <id>PH7</id>
+    <image>images/phones/lG.JPG</image>
+    <name>LG Phones</name>
+    <condition>Old</condition>
+    <price>450</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>LG</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </phone>  
+  <phone>
+    <id>PH8</id>
+    <image>images/phones/motorola.JPG</image>
+    <name>MOTO G5</name>
+    <condition>Old</condition>
+    <price>450</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Motorola</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </phone>  
+  <phone>
+    <id>PH9</id>
+    <image>images/phones/nokia.JPG</image>
+    <name>Nokia 3D Touch</name>
+    <condition>Old</condition>
+    <price>450</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Nokia</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </phone>  
+  <phone>
+    <id>PH10</id>
+    <image>images/phones/sony.JPG</image>
+    <name>Sony Xperia</name>
+    <condition>Old</condition>
+    <price>450</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Sony</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </phone>  
+</ProductCatalog>

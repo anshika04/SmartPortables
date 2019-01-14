@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProductCatalog>
+  <smartWatch>
+    <id>SM1</id>
+    <image>images/smartWatches/samsungplus.JPG</image>
+    <name>Samsung Plus</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Apple</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>30.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </smartWatch>
+  <smartWatch>
+    <id>SM2</id>
+    <image>images/smartWatches/asus.JPG</image>
+    <name>Asus Watches</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Apple</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>40.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </smartWatch>
+  <smartWatch>
+    <id>SM5</id>
+    <image>images/smartWatches/LG.JPG</image>
+    <name>LG Smart Watch</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Apple</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>35.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>9</quantity>
+  </smartWatch>
+  <smartWatch>
+    <id>SM4</id>
+    <image>images/smartWatches/fitbit.JPG</image>
+    <name>Fitbit</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Apple</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>8</quantity>
+  </smartWatch>
+  <smartWatch>
+    <id>SM7</id>
+    <image>images/smartWatches/pandoo.JPG</image>
+    <name>Pandoo</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Apple</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>15</quantity>
+  </smartWatch>
+  <smartWatch>
+    <id>SM6</id>
+    <image>images/smartWatches/motorola.JPG</image>
+    <name>MotorolaWatch</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Apple</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>12</quantity>
+  </smartWatch>
+  <smartWatch>
+    <id>SM9</id>
+    <image>images/smartWatches/samsung1.JPG</image>
+    <name>Samsung Digi</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Apple</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>9</quantity>
+  </smartWatch>
+  <smartWatch>
+    <id>SM8</id>
+    <image>images/smartWatches/pebble.JPG</image>
+    <name>Pebble</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Apple</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </smartWatch>
+  <smartWatch>
+    <id>SMdee2b25c-d497-42e3-9058-e8d1be125456</id>
+    <image>images/loading.gif</image>
+    <name>Test Speaker</name>
+    <condition>New</condition>
+    <price>55.0</price>
+    <retailer>Best Buy</retailer>
+    <manufacturer>Manufacture</manufacturer>
+    <RETAILER_DISCOUNT>10.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>33.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>15</quantity>
+  </smartWatch>
+</ProductCatalog>

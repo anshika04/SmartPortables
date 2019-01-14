@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Pontano+Sans);
+
+#footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:#999;
+}
+
+body {
+	background-color: grey;
+}
+
+
+.login-center {
+	width: 100%;
+	height auto;
+	padding: 50px 250px 50px 250px;
+
+}
+

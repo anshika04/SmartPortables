@@ -1,0 +1,7 @@
+Anshika,Trivedi,anshika,password,customer,1234567890
+Store,Store,storemanager,password,storemanager,3124562335
+Sales,Sales,salesman,password,salesman,3456542345
+ans,ans,ans,ans,salesman,1234512345
+utkarsh,tiwari,utkarsh,password,customer,34567
+test,test,testuser,password,customer,1234512345
+usersales,usersales,usersales,password,customer,12345

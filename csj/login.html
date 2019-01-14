@@ -1,0 +1,64 @@
+<div class="col-md-9" align="justify">
+	<section id="content">
+		<article>
+			<form role="form" method="POST" action="/csj/login" class="well form-horizontal">
+
+				<!-- Form Name -->
+				<legend><center><h2><b>Login</b></h2></center></legend><br>
+				<div class="login-center">
+					<div class="form-group" align="justify">
+						
+						<label class="col-md-4 " >Username</label> 
+						<div class="col-md-8">
+							<div class="input-group">
+								<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+								<input id="username" name="username" placeholder="UserName" class="form-control"  type="text">
+							</div>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-md-4 " >Password</label> 
+						<div class="col-md-8">
+							<div class="input-group">
+								<span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+								<input id="password" name="password" placeholder="Password" class="form-control"  type="password">
+							</div>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label class="col-md-4 " >User Role</label> 
+						<div class="col-md-8">
+							<div class="input-group">
+								<select name="role" class="form-control">
+									<option value = "customer">Customer</option>
+									<option value = "storemanager">Store Manager</option>
+									<option value = "salesman">Salesman</option>
+								</select>
+							</div>
+						</div>
+					</div>
+
+
+					<div class="form-group">
+						<a href="/csj/signUp">Not a member!! Sign Up</a>
+					</div><br>
+
+					<div class="form-group" align="center">
+						<label class="col-md-4 control-label"></label>
+							<div class="col-md-4"><br>
+								<button type="submit" class="btn btn-warning" >Login <span class="glyphicon glyphicon-send"></span></button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+				</form>
+
+			</article>
+		</section>
+	</div>
+</div>

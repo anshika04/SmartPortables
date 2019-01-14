@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProductCatalog>
+  <accessory>
+    <id>AC1</id>
+    <image>images/accessories/chargecable.jpg</image>
+    <name>Samsung charging cable</name>
+    <condition>New</condition>
+    <price>75</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Samsung</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>20</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </accessory>
+  <accessory>
+    <id>AC2</id>
+    <image>images/accessories/headphone1.jpg</image>
+    <name>Beats Headphone</name>
+    <condition>New</condition>
+    <price>600</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Beats</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>25</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </accessory>
+  <accessory>
+    <id>AC3</id>
+    <image>images/accessories/headphone2.jpg</image>
+    <name>Headphone V20</name>
+    <condition>New</condition>
+    <price>50</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>V20</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>30</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </accessory>
+  <accessory>
+    <id>AC4</id>
+    <image>images/accessories/honor.jpg</image>
+    <name>Honor Powerbank</name>
+    <condition>Old</condition>
+    <price>30</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Honor</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </accessory>
+  <accessory>
+    <id>AC5</id>
+    <image>images/accessories/mousepad.jpg</image>
+    <name>Mousepad Blue Color</name>
+    <condition>Old</condition>
+    <price>45</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>LG</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </accessory>
+  <accessory>
+    <id>AC6</id>
+    <image>images/accessories/mousepad.jpg</image>
+    <name>Mousepad Blue Color</name>
+    <condition>Old</condition>
+    <price>45</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>LG</manufacturer>
+    <RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </accessory>
+</ProductCatalog>

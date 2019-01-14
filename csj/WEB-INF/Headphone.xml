@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProductCatalog>
+  <headphone>
+    <id>HE2</id>
+    <image>images/headphones/bose1.JPG</image>
+    <name>Bose Wireless</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Bose</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>25.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </headphone>
+  <headphone>
+    <id>HE1</id>
+    <image>images/headphones/bose.JPG</image>
+    <name>Bose Mic</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Bose</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </headphone>
+  <headphone>
+    <id>HE4</id>
+    <image>images/headphones/otium.JPG</image>
+    <name>Otium</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Otium</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </headphone>
+  <headphone>
+    <id>HE3</id>
+    <image>images/headphones/koss.JPG</image>
+    <name>Koss</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Koss</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </headphone>
+  <headphone>
+    <id>HE6</id>
+    <image>images/headphones/pioneer.JPG</image>
+    <name>Pioneer OverHead</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Pioneer</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </headphone>
+  <headphone>
+    <id>HE5</id>
+    <image>images/headphones/panasonic.JPG</image>
+    <name>Panasonic Base</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Panasonic</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </headphone>
+  <headphone>
+    <id>HE8</id>
+    <image>images/headphones/skullcandy.JPG</image>
+    <name>Skull Candy</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Skull Candy</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </headphone>
+  <headphone>
+    <id>HE7</id>
+    <image>images/headphones/senso.JPG</image>
+    <name>Senso</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Senso</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </headphone>
+  <headphone>
+    <id>HE303b1600-6d69-4f49-829e-35be273e8be9</id>
+    <image>images/loading.gif</image>
+    <name>TestHeadphones222222</name>
+    <condition>Old</condition>
+    <price>55.0</price>
+    <retailer>Best Buy</retailer>
+    <manufacturer>OnePlus</manufacturer>
+    <RETAILER_DISCOUNT>20.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>33.0</MANUFACTURER_REBATE>
+    <onsale>No</onsale>
+    <quantity>1722</quantity>
+  </headphone>
+  <headphone>
+    <id>HE9</id>
+    <image>images/headphones/sony.JPG</image>
+    <name>Sony Earphones</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>Sony</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </headphone>
+  <headphone>
+    <id>HE10</id>
+    <image>images/headphones/skullcandyyellow.JPG</image>
+    <name>Skull Candy Yellow</name>
+    <condition>Old</condition>
+    <price>450.0</price>
+    <retailer>Best Deal</retailer>
+    <manufacturer>SkullCandy</manufacturer>
+    <RETAILER_DISCOUNT>0.0</RETAILER_DISCOUNT>
+    <MANUFACTURER_REBATE>0.0</MANUFACTURER_REBATE>
+    <onsale>Yes</onsale>
+    <quantity>10</quantity>
+  </headphone>
+</ProductCatalog>

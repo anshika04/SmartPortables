@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+	<externalStorage>
+		<id>EX1</id>
+		<image>images/externalStorage/sandisk.JPG</image>
+		<name>SanDisk</name>
+		<condition>Old</condition>
+		<price>450.0</price>
+		<retailer>Best Deal</retailer>
+		<manufacturer>SanDisk</manufacturer>
+		<RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+		<MANUFACTURER_REBATE>20</MANUFACTURER_REBATE>
+		<onsale>Yes</onsale>
+		<quantity>10</quantity>
+	</externalStorage>
+	<externalStorage>
+		<id>EX2</id>
+		<image>images/externalStorage/seagate.JPG</image>
+		<name>Seagate</name>
+		<condition>Old</condition>
+		<price>450.0</price>
+		<retailer>Best Deal</retailer>
+		<manufacturer>Seagate</manufacturer>
+		<RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+		<MANUFACTURER_REBATE>10</MANUFACTURER_REBATE>
+		<onsale>Yes</onsale>
+		<quantity>10</quantity>
+	</externalStorage>
+	<externalStorage>
+		<id>EX3</id>
+		<image>images/externalStorage/xbox.JPG</image>
+		<name>XBOX</name>
+		<condition>Old</condition>
+		<price>450.0</price>
+		<retailer>Best Deal</retailer>
+		<manufacturer>xbox</manufacturer>
+		<RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+		<MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+		<onsale>Yes</onsale>
+		<quantity>10</quantity>
+	</externalStorage>
+	<externalStorage>
+		<id>EX4</id>
+		<image>images/externalStorage/bovke.JPG</image>
+		<name>Bovke</name>
+		<condition>Old</condition>
+		<price>450.0</price>
+		<retailer>Best Deal</retailer>
+		<manufacturer>Bovke</manufacturer>
+		<RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+		<MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+		<onsale>Yes</onsale>
+		<quantity>10</quantity>
+	</externalStorage>
+	<externalStorage>
+		<id>EX5</id>
+		<image>images/externalStorage/buffalo.JPG</image>
+		<name>Buffalo</name>
+		<condition>Old</condition>
+		<price>450.0</price>
+		<retailer>Best Deal</retailer>
+		<manufacturer>Buffalo</manufacturer>
+		<RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+		<MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+		<onsale>Yes</onsale>
+		<quantity>10</quantity>
+	</externalStorage>
+	<externalStorage>
+		<id>EX6</id>
+		<image>images/externalStorage/zip.JPG</image>
+		<name>Zip</name>
+		<condition>Old</condition>
+		<price>450.0</price>
+		<retailer>Best Deal</retailer>
+		<manufacturer>Zip</manufacturer>
+		<RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+		<MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+		<onsale>Yes</onsale>
+		<quantity>10</quantity>
+	</externalStorage>
+	<externalStorage>
+		<id>EX7</id>
+		<image>images/externalStorage/sata.JPG</image>
+		<name>Sata</name>
+		<condition>Old</condition>
+		<price>450.0</price>
+		<retailer>Best Deal</retailer>
+		<manufacturer>Sata</manufacturer>
+		<RETAILER_DISCOUNT>0</RETAILER_DISCOUNT>
+		<MANUFACTURER_REBATE>0</MANUFACTURER_REBATE>
+		<onsale>Yes</onsale>
+		<quantity>10</quantity>
+	</externalStorage>
+</ProductCatalog>

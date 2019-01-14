@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>SmartPortables</title>
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/styles.css">
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/csj/src/javascript.js"></script>
+</head>
+<body class="container well" onload="init()">
+	<div class="container-fluid">
+		<nav class="navbar navbar-inverse">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="home">Smart Portables</a>
+				</div>
+				<ul class="nav navbar-nav">
+					<li class="active"><a href="home">Home</a></li>
+					<!-- <li><a href="#">Products</a></li> -->
+					<li><a href="#">FAQs</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+				<!-- <div class="autocompletion">
+					<form name="autofillform" action="autocomplete">
+						<table border="0" cellpadding="5">
+							<tbody  align="center">
+								<tr>
+									<td><input class="form-control" type="text" id="complete-field" size="50" onkeyup="doCompletion()" placeholder="search"></td>
+								</tr>
+								<tr>
+									<td id="auto-row">
+										<table style="width:45%" id="complete-table" class="popupBox"></table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</form>
+				</div>
+			-->
+
+
+			<ul class="nav navbar-nav pull-right">
+				#headerList
+			</ul>
+		</div>
+	</nav>
+	<div class="autocompletion">
+		<form name="autofillform" action="autocomplete" style="padding: 10px 0px 0px 30px; width: 35%;">
+			<div class="form-group" >
+				<div class="input-group">
+					<input type="text" class="form-control" id="complete-field" size="50" onkeyup="doCompletion()" placeholder="Search Products">
+					<span class="input-group-addon"><span class="glyphicon glyphicon-search"></span></span>
+				</div>
+				<div id="auto-row">
+					<table style="width:100%" id="complete-table" class="popupBox well table table-striped"></table>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
